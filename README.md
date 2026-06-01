@@ -22,3 +22,12 @@ Modify and improve a thrifted hot-swappable mechanical keyboard by upgrading its
 - Identify VBUS, D+, D-, GND, shield
 - Compare Mini-USB and USB-C wiring requirements
 - Design or adapt USB-C daughterboard
+
+## Progress
+See [`progress-log.md`](progress-log.md).
+
+## Photos
+See the [`images/`](images/) folder.
+
+## Hardware Notes
+See the [`hardware/`](hardware/) folder.
