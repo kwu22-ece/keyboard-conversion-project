@@ -8,6 +8,8 @@
 - Checked connectivity and functionality
 - Ordered switches, keycaps, and foam
 - Designed daughterboard PCB
+## June 4, 2026
+- Ordered daughterboard for USB-C connection
 
 ## Next Steps
 - Print daughterboard
